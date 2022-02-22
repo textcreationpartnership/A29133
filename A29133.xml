@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to Mr. Thomas Pierce, rector of Brington conteining amongst other things, a brief state of the question about Gods decrees : to which is annexed an exercitation in Latine concerning free-will / by Edward Bagshawe ...</title>
+            <author>Bagshaw, Edward, 1629-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29133</idno>
+            <idno type="STC">Wing B415</idno>
+            <idno type="STC">ESTC R37097</idno>
+            <idno type="EEBO-CITATION">16208262</idno>
+            <idno type="OCLC">ocm 16208262</idno>
+            <idno type="VID">105090</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29133)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105090)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1085:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to Mr. Thomas Pierce, rector of Brington conteining amongst other things, a brief state of the question about Gods decrees : to which is annexed an exercitation in Latine concerning free-will / by Edward Bagshawe ...</title>
+                  <author>Bagshaw, Edward, 1629-1671.</author>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pierce, Thomas, 1622-1691.</term>
+               <term>Free will and determinism.</term>
+               <term>Arminianism --  Controversial literature.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105090:1"/>
+            <pb facs="tcp:105090:1" rendition="simple:additions"/>
+            <p>A LETTER TO M<hi rend="sup">r</hi> 
+               <hi>THOMAS PIERCE</hi> RECTOR OF BRINGTON: Conteining amongſt other things, a Brief ſtate of the Queſtion about Gods Decrees.</p>
+            <p>To which is annexed An Exercitation in Latine Concerning FREE-WILL.</p>
+            <p>By <hi>Edward Bagſhawe,</hi> St. Ch. Ch.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. M.</hi> in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:105090:2"/>
+            <pb n="1" facs="tcp:105090:2"/>
+            <head>FOR M<hi rend="sup">r</hi> 
+               <hi>THOMAS PEIRCE,</hi> RECTOR of <hi>BRINGTON.</hi>
+            </head>
+            <opener>
+               <salute>SIR:</salute>
+            </opener>
+            <p>THe Diſpute between your ſelf and Me, is now be<g ref="char:EOLhyphen"/>come ſo Perſonal, and would be, if I ſhould imi<g ref="char:EOLhyphen"/>tate your Style, ſo Paſſionate, that, till you can re<g ref="char:EOLhyphen"/>cover a calmer Temper, and quietly conſider how little your wrath doth either advance Gods Honour, or your own, it is very requiſite I ſhould lay aſide any farther handling of that weighty Queſtion, which firſt engaged us: For as I ought to pitty your weakneſs, and not pour ſtrong li<g ref="char:EOLhyphen"/>quor into ſo crazy a Veſſel; ſo lought likewiſe to have a grea<g ref="char:EOLhyphen"/>ter regard unto thoſe Sacred and amazing Truths, then to ven<g ref="char:EOLhyphen"/>ture them upon that ſcorne which they are like to meet with, whilſt you are in this your Fit of Anger and Impatience.</p>
+            <p>Yet, Sir, That I may for the future prevent your ap<g ref="char:EOLhyphen"/>proaching ſo near to Blaſphemy, as to charge, what ever Faults I either have been or may be guilty of, upon the ac<g ref="char:EOLhyphen"/>count of my Principles (ſince I hold nothing, but what I ſolely deriv<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>om, and am alwaies ready to make good by, Scripture) I ſhall briefly diſcover what my Principles are; that ſo it ever you offend in the like kind of cenſure again, your Malice may then be as Apparent, and as Inexcuſable, as now your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olly is.</p>
+            <p>Therefore to undeceive you, I profeſs firmly to believe, with the reſt of thoſe Excellent Writers whom you have ſo diſingeniouſly traduc'd, that, <hi>God alone is to have the honour of all the good which his Creatures do;</hi> But, <hi>All the Guilt and ſhame of their Actions they are to take wholely unto themſelves;</hi>
+               <pb n="2" facs="tcp:105090:3" rendition="simple:additions"/>And, <hi>That they ought to look no higher for a Cauſe of their de<g ref="char:EOLhyphen"/>filement, then unto the impure spring within them.</hi>
+            </p>
+            <p>How theſe two Poſitions of mine (which you muſt needs acknowledg very Pious, ſince, as I take it, they are yours too, though you inferre them from much different Princi<g ref="char:EOLhyphen"/>ples) can conſiſt with <hi>Abſolute Predeſtination,</hi> is not my Buſineſs to reſolve you, no more then it would be yours to explain and unfold all the Myſteries of the <hi>Trinity</hi> againſt the Cavils of a <hi>Socinian;</hi> For thoſe who profeſs a ſtrict adhe<g ref="char:EOLhyphen"/>rence to the Letter, and, to their beſt underſtanding, the ſenſe of Scripture, need not regard the Conſequences which ſuch vain Perſons can urge againſt them; and amidſt ſo ma<g ref="char:EOLhyphen"/>ny difficulties, more then you have yet alleadged, which my own Reaſon do's daily ſuggeſt to me, and ſollicite me with, I have only this, with which I ſatisfie and quiet my Spirit, that I deſire fully to acquieſce in the <hi>revealed will</hi> of God, and <hi>to be wiſe,</hi> as <hi>not above,</hi> ſo nor beſides, <hi>what is written.</hi>
+            </p>
+            <p>And therefore, Sir, If it ſhould follow from this Tenet, not that I affirme, but that in ſome ſenſe I cannot deny <hi>God</hi> to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of ſinne,</hi> You have as little reaſon to revile me for <hi>Blasphemy</hi> (ſince I do in my very thoughts abhorre it;) as I ſhould have to reproach you with folly and weakneſs, for aſſerting <hi>Conditionall Election,</hi> though it be a thing not only utterly unſcri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tural, but, in an Abſolute and Indepen<g ref="char:EOLhyphen"/>dent Agent, impoſtable to be conceived: Yet ſince herein I believe you ſpeak in the Integrity, as well as in the Sim<g ref="char:EOLhyphen"/>plicity of your Heart; I dare not charge upon you thoſe o<g ref="char:EOLhyphen"/>dious Inferences, which I am able to deduce from that Do<g ref="char:EOLhyphen"/>ctrine.</p>
+            <p>So that when I firſt ventured to declare my own Opinion in thoſe Points, and to write ſomething againſt yours; I muſt Profeſs that it was not your Opinion (which, how ir<g ref="char:EOLhyphen"/>rational ſoever I think it, yet I know conſiſtent with a Pious Life) that I was mainely concern'd againſt; but rather at your unjuſt and unhandſome confidence, whereby you was not only content to diſcover your own Judgment, (which yet is no more then to rake up and revive an almoſt decayed Er<g ref="char:EOLhyphen"/>rour)
+<pb n="3" facs="tcp:105090:3"/>but did proceed ſo virulently to aſperſe and cenſure all thoſe who could not concurre with you: This, Sir, did diſerve, from every one that diſſented from you, much ſharper Language then I either then did, or now do, though provok'd, intend to uſe. For let your own Convictions, in this Point, be as great and as clear, as it is poſſible, yet why ſhould you deny others that liberty, of abounding in their own ſenſe, which you did ſo needleſly aſſume unto your ſelf? Or, with what Colour of reaſon can you excuſe your bitter invectives at thoſe Famous Pillars of the <hi>Proteſtant Cauſe,</hi> who, as they liv'd long before you, ſo, they writ no<g ref="char:EOLhyphen"/>thing but what they thought evident and convincing Truth, and therefore could do nothing to provoke that uſage? But had they been as really miſtaken, as now by you they are on<g ref="char:EOLhyphen"/>ly ſuppoſed to be; it would have become your piety rather to have hid, then, herein exceeding the ſin of <hi>Cham,</hi> firſt to uncover, and then to Proclaim their Nakedneſs.</p>
+            <p>And to make your Guilt herein a little more Black and C<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>minal, I muſt remind you, for your Paſſion hath ſpoil'd your Memory, that what thoſe, our Primitive Worthies, maintain'd, was once the Uniforme and eſtabliſh'd Doctrine of our Church, till ſome of your Party departed from it; a<g ref="char:EOLhyphen"/>mongſt whom none have done ſo deſperately as your ſelf, who ſeem to have caſt off, not only all Filial and Pious e<g ref="char:EOLhyphen"/>ſteem for thoſe who deliver'd this Doctrine, but likewiſe all manner of Civility, as well as Charity, for us, who ſtill retain it. Thus, Sir, you ſee I can eaſily juſtifie my firſt Attempt, which was to ſet upon you as the common Enemy, and to do my part in ſtriking at him, who had ſo boaſtingly defied and Challenged All; But for the ſecond, I mean, my miſta<g ref="char:EOLhyphen"/>king you to be the Author of thoſe <hi>Reflections,</hi> and my pro<g ref="char:EOLhyphen"/>ceeding ſo ſharply upon that miſtake, I acknowledg it an Errour; ſo that without daring to retract any thing in my <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrative</hi> (which I cannot do ſo long as I love Truth above all things) I heartily beg your pardon for the <hi>Preface.</hi>
+            </p>
+            <p>I might alledg in my excuſe, that common Fame did voice thoſe <hi>reflections</hi> to be yours long before I ſaw them;
+<pb n="4" facs="tcp:105090:4"/>which thing alone, as I remember, in a Caſe of a much grea<g ref="char:EOLhyphen"/>ter Man then you,
+<note n="a" place="margin">D. of <hi>Buckhin,</hi> 3. <hi>Caroli,</hi> H. of <hi>Com<g ref="char:EOLhyphen"/>mon.</hi>
+               </note> and by much wiſer Perſons then my ſelf, was judged to be a ſufficient ground of Accuſation. But beſides, I had the particular Teſtimony of a Friend of yours to Warrant me; to which I might add the likeneſs of the Style, and the unlikelyhood that any elſe, and unprovok'd too, ſhould venture to defame me firſt, and then endeavour to confute me after (which is your known method of Ar<g ref="char:EOLhyphen"/>guing.) All theſe Circumſtances agreeing, together with my never once looking upon the Title Page of that Book, but only reading ſo much as concerned me, might, if I would enlarge upon them, ſerve, if not to juſtifie, yet, to extenu<g ref="char:EOLhyphen"/>ate my fault: For a Fault I am content to call it, and more I think you cannot make of it: Eſpecially ſince it did not pro<g ref="char:EOLhyphen"/>ceed from any <hi>anger at my being neglected by you,</hi> as you plea<g ref="char:EOLhyphen"/>ſantly inſinuate (for this I could eaſily have interpreted to my advantage, and have concluded that you did not Anſwer me becauſe you could not) much leſs was it any Malicious deſign againſt your fame or perſon, but meerly a miſtake, grounded upon thoſe Preſumptions, which made me handle you, as I then thought you deſerved, and that was very ſcur<g ref="char:EOLhyphen"/>vily.</p>
+            <p>And had you been pleaſed, in your late Vindication, ſo far to have moderated your Choler, as meekly to have ac<g ref="char:EOLhyphen"/>quainted me with my Error, I ſhould preſently have made you an Acknowledgment, as Publick and as Humble, as your own Pride could wiſh; For I do not only know it to be more Chriſtian, but likewiſe hold it a more generous thing to ask Forgiveneſs, then to perſiſt in an Injury. But in your laſt Pamphlet, you have made your ſelf ſo liberal amends, and Carved out ſo much of my Reputation, where with to repair the Ruins of your own, that you have almoſt enſorced me to forbear my Courteſie; ſince by your rude taxing me with want of <hi>Modeſty, Humanity, Religion, Cerſcience,</hi> and what not? by your recharging upon me thoſe very Crimes of <hi>Treachery</hi> and <hi>Ingracitude</hi> to M<hi rend="sup">r</hi> 
+               <hi>Busby</hi> (which e<g ref="char:EOLhyphen"/>very one but you think I have already ſufficiently wip'd off.)
+<pb n="5" facs="tcp:105090:4"/>You have made that nameleſs, becauſe worthleſs, Gentle<g ref="char:EOLhyphen"/>mans <hi>Reflections</hi> your own, and ſo have given me a juſt oc<g ref="char:EOLhyphen"/>caſion to abide by that Character which I have alrea<g ref="char:EOLhyphen"/>dy made of you; and, inſtead of retracting any thing in the <hi>Preface,</hi> I might look upon it only as an Anticipated Re<g ref="char:EOLhyphen"/>venge.</p>
+            <p>Yet, Sir, ſince you ſo perfectly diſown the having any hand in the writing, of that unknowing and unknown <hi>Apolo<g ref="char:EOLhyphen"/>giſt;</hi> and becauſe much of what you ſay, is only <hi>Responſum &amp; non dictum,</hi> not a beginning, but only a return of unkindneſs, it is fit that as I ſtrook the firſt Blow, though ignorantly and in the dark, ſo, now you have open'd my eyes, I ſhould firſt offer to ſhake hands, and not willfully proſecute what I un<g ref="char:EOLhyphen"/>wittingly began.</p>
+            <p>I ſhall not therefore make any return to thoſe many un<g ref="char:EOLhyphen"/>handſome expreſſions, wherein you have endeavoured to ſet me out; only give me leave a little to wonder at the large<g ref="char:EOLhyphen"/>neſs of your Talent, that after you had emptied ſuch a Treaſure of ill Language upon Mr. <hi>Baxter,</hi> and Mr. <hi>Hickman,</hi> you ſhould ſtill have a freſh Spring and reſerve for me; and continue to raile in your laſt Page, with as good a grace as if you were but then beginning. This, Sir, as it ſhews the greatneſs of your ſtock, which can maintain you at ſo large an expence, and in ſo much fine variety of reproachfull ſay<g ref="char:EOLhyphen"/>ings, ſo I am content to let it paſs for your greateſt commen<g ref="char:EOLhyphen"/>dation.</p>
+            <p>But, Sir, Had your expreſſions of me been much worſe then they are, I was prepared to Forgive you, and now think my ſelf obliged to thank you for them; ſince after ſo many Tragicall exclamations, wherein your Anger is more conſpicuous then your Art; and after ſo ſcrupulous an en<g ref="char:EOLhyphen"/>quiry into my life and manners, you can only accuſe me of two things, <hi>the miſtake of my Preface,</hi> and <hi>my ſuppoſed Ingra<g ref="char:EOLhyphen"/>titude to Mr.</hi> Busby; of which if I can clear my ſelf, you have done enough, as to all other things, to aſſert and to pro<g ref="char:EOLhyphen"/>claim my Innocence. And for the <hi>firſt</hi> of theſe, I have al<g ref="char:EOLhyphen"/>ready askt your Pardon; as for the <hi>other,</hi> I am ſure I need
+<pb n="6" facs="tcp:105090:5"/>none; concerning which if my <hi>Narrative</hi> hath not already given you ſatisfaction, it is not becauſe that is not clear and convincing enough, but becauſe you came prepared to con<g ref="char:EOLhyphen"/>tradict it. And though you uncivilly, as medling with a difference which concerns you not, bring Mr. <hi>Busby</hi> again upon the <hi>Stage,</hi> yet I will not now be provoked to ſay more of him then only this, that I am ſorry I cannot ſay leſs then I have done.</p>
+            <p>I paſs by therefore your zealous commending Mr. <hi>Busby,</hi> and (out of my reſpects to him, notwithſtanding his Inju<g ref="char:EOLhyphen"/>ries) wiſh, that you had not ſo ſoon confuted and diſcredit<g ref="char:EOLhyphen"/>ed your own Teſtimony, by profeſſing in the ſame Page you do not know him: Nor am I willing to inſiſt upon your great indiſcretion, or rather undoing deſign, that you ſhould ſo much praiſe Mr. <hi>Busby,</hi> and yet in the ſame Book, much more rail at the <hi>Long Parliament,</hi> that is, to mention no more, upon all his <hi>Governours:</hi> Wherein, Sir, you may be thought, not ſo much to praiſe Mr. <hi>Busby,</hi> as to dicover him; not to ſet him off, but to lay him open, and to be<g ref="char:EOLhyphen"/>tray him to the ſuſpicion of his Judges, of whoſe favour he may ſtand in need. But theſe things I let paſs as Incongrui<g ref="char:EOLhyphen"/>ties, which as your haſt made you commit, ſo I hope Mr. <hi>Busby</hi> hath already paid you for them according<g ref="char:EOLhyphen"/>ly.</p>
+            <p>That which I am moſt concerned to take Notice of, is that prodigious vein of <hi>Wit,</hi> which runs through your Epi<g ref="char:EOLhyphen"/>ſtle; as when you call me Mr. <hi>Edward,</hi> when you miſcall me by the name of <hi>
+                  <g ref="char:V">Ʋ</g>ſher,</hi> and that profound one of <hi>Cenſu<g ref="char:EOLhyphen"/>ring the ſawcy Cenſor,</hi> which is a Jeſt that this Year few will underſtand, and in the next, none can: Theſe, Sir, are the flowers of your Rhetorick, and what the phraſes are, I have not had leaſure to gather, but may from hence eaſily be gueſſed at.</p>
+            <p>But certainly Sir, Durſt we poor deſpiſed <hi>Calviniſts</hi> take the liberty which you do, as well, or ill to abuſe the party we diſpute with; or could we think it pious to defend our Cauſe, not by diſarming, but, by diſgracing the Adverſary,
+<pb n="7" facs="tcp:105090:5"/>you long ere this had met with that kind of entertainment. But who would not bluſh and be aſhamed to be counted a <hi>Wit,</hi> when you, who have ſo long laboured to deſerve that childiſh Name, are content to take up with ſuch poor things to credit you. Truſt me, Sir, if the goodneſs of your Pack, may be gueſſed at by the ſmallneſs of the wares you produce, you may be heavily, but you cannot be rich<g ref="char:EOLhyphen"/>ly laden; And I would not have your Back, for your Bur<g ref="char:EOLhyphen"/>den. Were I fooliſh enough to be witty by your example, might not I call you Mr. <hi>Thomas,</hi> or, which is ſomewhat more anſwerable to your preſent Phrenzie, Plain <hi>Tom?</hi> Could not I vililie you by the Name of <hi>Vicar?</hi> And at laſt ſpend ſome dreadfull Quibbles upon <hi>Pierce?</hi> And I would fain know, Whether ſuch dry bobs as theſe, would not provoke as much laughter, and, which is your main end, make as good ſport among your Lay and Fe<g ref="char:EOLhyphen"/>male Readers, as any of thoſe offers at Smartneſſe and Satyre, which you have ventured to ſhew up<g ref="char:EOLhyphen"/>on me?</p>
+            <p>As you love, Sir, to preſerve that little Credit you have got, I would adviſe you to put up your Trinkets in time; for your kind of Play with Small money, will not hold out with all ſorts of Gameſters. Though I am the meaneſt of thoſe you have undertaken, yet, if I would take you for my ſubject, and rather ſtrive to be ſharp than ſerious, I ſhould find it no hard matter, to dreſs you up in your Cap and Caſſock, and ſo ſhew you to the world, not like thoſe Innocent Creatures, the <hi>Rats</hi> and <hi>Mice,</hi> to which you have merrily, or rather, to ſhew what value you put upon your ſelf, triumphantly compared us: But like ſome greater, and more ravenous Beaſt of prey, which is not content to <hi>nibble at Books,</hi> but tears and devours the Authors, and when he ſhould confute their Arguments, wounds and aſſaſſinates their Reputations.</p>
+            <p>Were you cool enough, I need go no farther than your ſelf for a teſtimony to confirm this; for is not this your con<g ref="char:EOLhyphen"/>ſtant practice? Haſtily concluding the truth to be on your
+<pb n="8" facs="tcp:105090:6"/>ſide (as if you had a Priviledge to be infallible) and ſtri<g ref="char:EOLhyphen"/>ding o're the knot, leſt it ſhould ſtop your Career, you get as farre as you can from the Queſtion, and at that diſtance Bark at your diſſenting Brethren, call them all <hi>Fools</hi> and <hi>Madmen,</hi> who dare not be ſo Peremptory and unreaſona<g ref="char:EOLhyphen"/>ble as your ſelf; load them with bitter invectives, and blaſphemous Inferences; and what you want in Argument, you make up in Noiſe and Outcry: Much like that ſilly <hi>Stoick</hi> in <hi>Lucian</hi>
+               <note n="*" place="margin">Jup. rag.</note> (an Author I am ſure you are Vers'd in, and, becauſe he jeers <hi>Predeſtination,</hi> well approve of) who when he was driven to a Non plus, cries out <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is the very Greek for your Engliſh, when you ſo op<g ref="char:EOLhyphen"/>probriouſly call Mr. <hi>Hickman Wretched Caitiff.</hi>
+            </p>
+            <p>You ſee, Sir, how much you lie at my Mercy, and from what I have ſaid, you may judge how favourable I am, in that I ſay no more: Now I have put you into a Fright, and ſhewed you your danger, I muſt pitty your frailty, and com<g ref="char:EOLhyphen"/>fort you again, by acquainting you, that I hope I am per<g ref="char:EOLhyphen"/>fectly cured of that looſneſs, and what levity I diſlike in your writings, I ſhall not willingly practiſe in my own; and though it is to be feared, that your Poetry has ſpoiled your preaching, yet, for your profeſſion's ſake, I heartily wiſh you would a little forget that you are <hi>Rector</hi> of <hi>Brington,</hi> which is your Law Term; that ſo you may the better re<g ref="char:EOLhyphen"/>member your ſelf to be a <hi>Preacher</hi> of the <hi>Gospel,</hi> which is your Proper Title, and with the gravity of which, your preſent empty and trivial way of writing, do's as little agree, as a feather would do with your habit. Much more might be ſaid upon this ſubject, but I am too young to countenance the good Advice I could give; and you are too old, and too wiſe too, at leaſt in your own conceit, to take it.</p>
+            <p>Andhere, Sir, if you pleaſe, we will end all Perſonal Quarrels; at leaſt for my part I ſhall, ſince I cannot think it worth my vvhile there to contend for the victory, where I ſhould be aſhamed to Triumph. And that I may not whol<g ref="char:EOLhyphen"/>ly looſe this Letter, which I ſhould do if I diſcourſed of no<g ref="char:EOLhyphen"/>thing in it but you, I ſhall conclude with ſomething more
+<pb n="9" facs="tcp:105090:6"/>material, <hi>viz.</hi> the Ground of our former and preſent dif<g ref="char:EOLhyphen"/>ference.</p>
+            <p>The difference between your ſelf and me, (that you may not be ſo confident of your own opinion) is neither more nor leſs, then what has emploied the Wits, and divided the Judgments of all the learned men that ever were, or will be in the world, <hi>viz.</hi> concerning <hi>Gods Decrees,</hi> whether they be <hi>Abſolute</hi> or <hi>Conditional.</hi> You, in the rear of many great Names which I could reckon, becauſe you cannot otherwiſe underſtand the Importance of thoſe ſeveral precepts and com<g ref="char:EOLhyphen"/>minations in Scripture, nor Free God from being the Au<g ref="char:EOLhyphen"/>thor of ſin, affirm Gods <hi>Decrees</hi> to be <hi>Conditional,</hi> i.e. <hi>That God chooſes Peter,</hi> &amp;c. <hi>becauſe he foreſees that he will Beleive and Perſevere to the end.</hi> But I, who can as little underſtand how God can conſider any condition in the creature as a ground of his Election, ſince he is the ſole Author of whateſer con<g ref="char:EOLhyphen"/>ditions the creature can be ſuppoſed to have: And becauſe I underſtand leſſe, how thoſe who acknowledge Gods Preſci<g ref="char:EOLhyphen"/>ence can free him from being in ſome ſenſe the Author of ſin, ſince what ever God foreſees, and doth not prevent, he may juſtly be ſaid to cauſe, when he knows that nothing but his interpoſing can hinder the producing of it, therefore I affirm, with many Thouſands of others, as Learned men as the World ever had, That all <hi>Gods Decrees</hi> are, like his Nature, <hi>Abſolute,</hi> i.e. <hi>That God chuſeth Peter,</hi> &amp;c. <hi>becauſe he will chuſe him, and to make good his act of Election, he gives him Faith, and by his power preſerves him to the end.</hi>
+            </p>
+            <p>To underſtand which of theſe two opinions be the moſt ſober and Rational (for as to Scripture, the laſt without di<g ref="char:EOLhyphen"/>ſpute has the better) it will be firſt neceſſary to conſider the Nature of Mans <hi>Will,</hi> in what manner, and how farre 'tis <hi>Free;</hi> and to reſolve this, however, Sir, you take the whole for granted, requires a more than ordinary knowledge in the Depths of natural Philoſophy; which you have not now leaſure, nor ever ſeem to have had ſetled judgment enough to enquire into: and therefore it may perhaps be news to tell you that thoſe Axioms, <hi>Nothing can move it ſelf;</hi> and,
+<pb n="10" facs="tcp:105090:7"/>
+               <hi>Every thing hath a Cauſe;</hi> and, <hi>Whatever the will chuſeth now, it can give a Reaſon, why it chuſeth it, which Reaſon was ſuffi<g ref="char:EOLhyphen"/>cient to move it, and therefore Neceſſary.</hi> Theſe Axioms I ſay, when urged as Objections, have in all Ages puzzled the moſt Acute and ſubtil Diſputers; and though many, amongſt whom the Reverend and Learned B. <hi>Bramball,</hi> have ſaid as much in the point, as the Queſtion is capable of, yet when all is done, I muſt profeſs for my own part, that my Religion, and not my Reaſon, has ſatisfied me, and I am content to beleive I have Free-will, though I cannot under<g ref="char:EOLhyphen"/>ſtand it: and concerning this, not as preſuming to ſolve the Difficulties, but only to ſhew them, I have ſent you an Ex<g ref="char:EOLhyphen"/>ercitation in Latine, which you may either Anſwer, or, which is farre more eaſie, ſlight as you ſee occaſion.</p>
+            <p>When this Difficulty is paſſed over, which alone is enough to choak the keeneſt Diſputers appetite, Another of much greater importance remains behind, <hi>viz.</hi> upon ſuppoſition that man has <hi>Free-will,</hi> that is, Liberty to chuſe, not his actions only, but his will too (as who is ſo Mad to deny this, in his Actions I mean, though many do in their writings?) then how can this freedom of Will in man be reconciled to the Abſoluteneſs of the Will of God; ſince that, as it is the prime Cauſe, ſo it does alwayes actually concurre with, and therefore is neceſſarily productive of, every Action of the Creature? To ſay here that God concurres with every Creature according to their ſeveral reſpective natures, that is to ſay, with neceſſary Agents, ſo as to make them act ne<g ref="char:EOLhyphen"/>ceſſarily; with Free Agents, ſo as to let them act Freely; this, I humbly conceive, is not ſo much to untie the knot, as to beg the Queſtion, ſince Gods concourſe is urged as an Argument to take away all manner of Freedome, becauſe his influence doth Act, though in a ſecret, yet in an irreſi<g ref="char:EOLhyphen"/>ſtible manner.</p>
+            <p>Theſe Intricacies, Sir, which do accompany the Que<g ref="char:EOLhyphen"/>ſtion about <hi>Gods Decrees</hi> (not to urge any thing from the conſequences of either, which is not a ſolid nor a rational way of ſearching out Truth) do make this controverſie ſo
+<pb n="11" facs="tcp:105090:7"/>unintelligible, ſo almoſt incapable of Solution, that they did at firſt diſquiet, but at laſt, through the bleſſing of God, they drove me out of the fluctuations of Reaſon, into the Shelter and Sanctuary of the Apoſtle <hi>Paul:</hi> and that Que<g ref="char:EOLhyphen"/>ſtion of his, <hi>Who art thou, O man,</hi> &amp;c? I have experi<g ref="char:EOLhyphen"/>mentally found to be the moſt effectual charm, wherewith to compoſe and ſettle a ſoul in the midſt of its ſhakings. From thence I did reſolve, and hope ſhall ever be preſerved in the ſame mind, to acquieſce in the Letter of Scripture, in ſpite of all the Tumultuatings and Agitations of my Thoughts againſt it; for ſhould I ever let go my hold, and put out to Sea again, I have juſt Cauſe to Fear, that this depth will ſooner ſwallow me up, then be Fathomed by me. You did therefore, Sir, very Prudently, to ſlight my late Treatiſe upon this Subject, and at all adventure to ſtile it <hi>Weak</hi> and <hi>Shallow,</hi> that thereby you might diſcourage your Followers, from receiving thence that ſatisfaction, which none of your Thin and Aiery Diſcourſes can give them.</p>
+            <p>But I will not again repeat, what I before mentioned, and promiſed to Forgive you for, concerning your Raw and Unſeaſoned way of Arguing; but I appeal to the Conſcien<g ref="char:EOLhyphen"/>ces of all the Sober men of your Perſwaſion, whether the Doubts in Preſcience will not as much Perplex a Diſputing Chriſtian, as the Myſteries of Predeſtination; and if you indeed have eſcaped thoſe Plunges, if you alone have been altogether Freed from thoſe Entanglements, I dare pro<g ref="char:EOLhyphen"/>nounce, it is not becauſe you are Wiſer, or underſtand <hi>Boe<g ref="char:EOLhyphen"/>tius</hi>
+               <note n="*" place="margin">5. <hi>l. de conſol. Phi<g ref="char:EOLhyphen"/>loſ.</hi>
+               </note> better than other men, but becauſe you have not Pati<g ref="char:EOLhyphen"/>ence, I might ſay Depth, enough, to take in the whole com<g ref="char:EOLhyphen"/>paſs of your Tenet.</p>
+            <p>Thus, Sir, I have briefly diſcovered my own Opinion, and withall pointed you out a way how you may correct yours; and if not your Opinion, yet at leaſt your Temper; which if you ſhall obſerve, there is ſome hope, that there may be, if not a Friendly agreement, yet a fair and Scholar-like contention between us: In Order to which, I ſhall, when ever you pleaſe, undertake to Maintain theſe two Theſes.</p>
+            <p n="1">
+               <pb n="12" facs="tcp:105090:8"/> 1<hi rend="sup">o</hi>. <hi>That all Gods Decrees are Abſolute.</hi>
+            </p>
+            <p n="2">2<hi rend="sup">o</hi>. <hi>That the Arminians, I mean thoſe who aſſert Conditional Election, do as much make God the Author of Sin, as thoſe who hold it to be Abſolute.</hi>
+            </p>
+            <p>Theſe two Poſitions, Sir, contain the Subſtance of all that either is, or can be, ſaid in this Argument, and if in either of them, you pleaſe, ſuitably to your declared Doctrine, to hold the Negative, the Controverſie may come to a ſpeedy Iſſue; if you pleaſe withall briefly to State your Opinion, and, without impertinent Declaiming by the By (with which you may pleaſe, but never ſatisfie a curious Reader) give in the Reaſons of your Aſſertion. Upon the view of vvhich, if I find your Arguments ſo New, ſo Clear, and ſo Convincing, that I, though far the vveakeſt of your Ad<g ref="char:EOLhyphen"/>verſaries, cannot Anſwer them; I ſhall, notwithſtanding Our preſent Diſtances, forthwith become, ſomething more than your Friend, your Convert, and endeavour to draw in others by my Example. And, becauſe I foreſee I am not like to make this change in haſte, you ſhall however always find me,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your very humble and Ready Servant <hi>Edw. Bagshawe.</hi>
+               </signed>
+               <dateline>
+                  <hi>Ch. Ch.</hi> 
+                  <date>Aug. 1<hi rend="sup">o</hi>. 1659.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div xml:lang="lat" type="exercise">
+            <pb n="13" facs="tcp:105090:8"/>
+            <head>Exercitatio Philoſophica de Libero Arbitrio.</head>
+            <p>NIhil eſt quod magis hominem commendet quam Arbitrii Libertas; nihil tamen de quo Philoſo<g ref="char:EOLhyphen"/>phi minus conſenſêre;
+<note place="margin">
+                  <hi>Annal.</hi> lib. 6.</note> Siquidem ut <hi>Taciti</hi> ver<g ref="char:EOLhyphen"/>bis utar, <hi>fuêre ſemper, qui Fatum congruere rebus putarent, licet non è vagis ſtell is, ſed apud principia &amp; nexus natura<g ref="char:EOLhyphen"/>lium cauſarum, primo cuinſque ortu ventura deſtinan<g ref="char:EOLhyphen"/>tur.</hi>
+            </p>
+            <p>Opinio iſta de Fato vel inevitabili rerum omnium even<g ref="char:EOLhyphen"/>tu, ſive a <hi>Chaldaeis,</hi> uti placet <hi>Diodoro Siculo,</hi>
+               <note place="margin">Lib. 2.</note> ſive ab aliis orta, a <hi>Stoicis</hi> avidè arrepta eſt, &amp; ita demum propagata, utiſtius Sectae habita ſit Nota propemodum peculiaris; quae alii Fortuita, illi Neceſſaria vocant; nec incidere ea, ſed venire aiunt, certâque, licet inobſervabili, lege de<g ref="char:EOLhyphen"/>currere. Hinc <hi>Seneca, Scio,</hi> inquit,
+<note place="margin">Lib. <hi>de Provid.</hi>
+               </note> 
+               <hi>omnia certâ &amp; in ae<g ref="char:EOLhyphen"/>ternum dictâ lege decurrere; Fata nos ducunt, &amp; quantum cuique reſtat, prima naſcentis hora diſpoſuit: Ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſa pendet ex Cauſâ, privata &amp; publica longus ordo rerum trahit.</hi> Un<g ref="char:EOLhyphen"/>de <hi>Chryſippus</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſive <hi>Fatum,</hi>
+               <note place="margin">
+                  <hi>Apud</hi> A. Gel.</note> definit eſſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>—h.e. <hi>Fatum eſt invariabilis re<g ref="char:EOLhyphen"/>rum compages, ſic concatenata ut diſſolvi alterarique non poſsit.</hi> Eodem facit illa <hi>Homeri</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſive <hi>Aurea Catena,</hi> quae omnia ſic a Deo pendere facit, ut continuo imperceptoque nexu ab Ipſo ad nos uſque pertingant; a<g ref="char:EOLhyphen"/>deò ut licet nunquam non agamus liberè, videamurque, ſaltem nobis ipſis, Actionum noſtrarum undequaque Do<g ref="char:EOLhyphen"/>mini;
+<pb n="14" facs="tcp:105090:9"/>nunquam tamen inquiunt, quicquam ſic libenter fa<g ref="char:EOLhyphen"/>cimus, ut non prius illud idem collibuerit Deo; nec plus minúſve operari eſt, quam ille olim decreverit. Imo tam rigidè hâ ex parte egêunt Stoici, ut nec Diis ipſis ullam reliquerint Libertatem: Sic enim omnium nomine procla<g ref="char:EOLhyphen"/>mat <hi>Seneca—Eadem neceſsitas &amp; Nos &amp; Dees alligat;
+<note place="margin">Lib. 2. Queſt. Natur.</note> irre<g ref="char:EOLhyphen"/>vocabilis divina pariter &amp; Humana curſus vehit; ille ipſe omnium Conditor &amp; Rector, Scripſit quidem Fata, ſed ſequi<g ref="char:EOLhyphen"/>tur;
+<note place="margin">Lib. 2.</note> ſemel juſsit, ſemper paret;</hi> unde &amp; <hi>Lucanus</hi> non tan<g ref="char:EOLhyphen"/>tum Poetice de Deo loquens
+<q>
+                  <l>Scripſit in aeternum cauſas, quâ cuncta coercet,</l>
+                  <l>Sequoque lege tenens—</l>
+               </q> Numen ſcilicet Decreto ſuo dum ſtat, videtur parere; quia aliàs confeſſio erroris fuerit, ſi mutanda fecerit.</p>
+            <p>
+               <hi>Sen. Oed.</hi> Act. 5.
+<q>
+                  <l>Fatis agimur;—</l>
+                  <l>Quicquid patimur mortale Genus,</l>
+                  <l>Quicquid facimus, venit ex alto:</l>
+                  <l>Non illa Deo vertiſſe licet</l>
+                  <l>Quae nexa ſuis currunt cauſis.</l>
+               </q> Cum vero nôrint multa paſſim provenire malâ, quorum aliqua facimus ipſi, aliqua &amp; patimur; a Bono autem Deo omnem Malignitatis ſuſpicionem ſollicitè amove<g ref="char:EOLhyphen"/>rint; Malorum itaque omnium Originem Materiae a<g ref="char:EOLhyphen"/>ſcripſerunt, quam vagam &amp; Inconditis Motibus ultrò aberrantem coerceri &amp; in ordinem redigi non poſſe au<g ref="char:EOLhyphen"/>tumârunt, ſed Tumultu irregulari abreptam Peſtes ſpargere, vitia accendere, ruinam undique moliri, ſe<g ref="char:EOLhyphen"/>ſeque quaſi contagii vaſtationiſque fomitem ubique in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tare;
+<note place="margin">Queſt. Nat. 1.</note> uti <hi>Seneca, a magno,</hi> inquit, <hi>artifice forman<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r prava multa, non quia ceſſat ars, ſed quia id, in quo exercetur, inobſequens Arti est;</hi> &amp; explicatius alibi,
+<pb n="15" facs="tcp:105090:9"/>quaerens cur Deus Bonis Triſtia immittat, re<g ref="char:EOLhyphen"/>ſpondet, <hi>Artifex non ſolet mutare Materiam; haec paſſa eſt.</hi>
+            </p>
+            <p>Conceſſo autem, ſingula Fato volvi, nec Actionem ullam, ut ut Levem ac Minutam, extra praeſcriptum o<g ref="char:EOLhyphen"/>lim ordinem edi poſſe, cum inde promptum foret ob<g ref="char:EOLhyphen"/>jicere, neminem tum ob Probitatem laudandum, nec ob vitia culpandum quempiam (nullo etemin encomio dignus eſt is, qui Probitati, quam habet, ſuccumbit potiùs quam ſtudet; nec illius malitia ſeriò deteſtan<g ref="char:EOLhyphen"/>da eſt, qui nequitiâ, cui reſiſtere non poteſt, ſecurus fruitur) hujuſmodi Inſtantiis occurrit <hi>Manilius,</hi>
+               <note place="margin">Aſtrom. lib. 4.</note> innu<g ref="char:EOLhyphen"/>endo iſtam doctrinam non liberare paenâ nocentem, nec praemio merentem fruadare; ſed potius virtutis va<g ref="char:EOLhyphen"/>lorem, vitii enormitatem intendere: tanto enim impen<g ref="char:EOLhyphen"/>ſius, inquit, laudandus eſt Probus—
+<q>
+                  <l>Quod caelo gaudente venit, rurſuſque nocentec</l>
+                  <l>Oderimus magis in paenam culpamque creatos.</l>
+               </q> Uti enim nemo eſcam minus probaverit, licet ſapor e<g ref="char:EOLhyphen"/>jus non ſuâ ſponte ſed irreſiſtibili Naturae vi, gratus proveniat; nec noxias lethaleſque herbas minus refu<g ref="char:EOLhyphen"/>gimus, licet ſuccum ſuum aliunde trahere cogantur, nec ultrò fiunt mortifetae; ſic &amp; cum Hominibus a<g ref="char:EOLhyphen"/>gendum cenſet, quorum Probitas ſi Deo ac Fato im<g ref="char:EOLhyphen"/>putetur, gratulandum eſt iis, quod propriori eos cu<g ref="char:EOLhyphen"/>râ numen dignetur; ſi vero Mali Sceleratique ſint, non culpâ ſuâ ſed Fati Perverſitate, eo ſunt culpandi magis, quod jam olim Diis exoſi, in terras veniunt quaſi damnati.</p>
+            <pb n="16" facs="tcp:105090:10"/>
+            <p> Atque Stoicorum Doctrinae de Fato &amp; Neceſitate haec ferè Summa eſt.</p>
+            <p>Peripatetici autem &amp; Platonici, paulò humiliùs, &amp; ad vulgarem captum accommodatiùs, Philoſophati, cum obſervarent <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> illud ſive <hi>Liberum Arbitrium,</hi> &amp; in Legibus Praeſumi, &amp; Notitiis Hominum ita Natu<g ref="char:EOLhyphen"/>raliter infigi, ut citiùs quis ſenſum illis, quam E<g ref="char:EOLhyphen"/>lectionem extorſerit; hinc etiam &amp; Illi huic Opinioni conſenſêrunt, quam, praeterquàm quòd in Religione omni ſit perſuaſiſſima, argumentis inſuper a Ratione ductis, confirmare ſunt annixi.</p>
+            <p>Primò Arguunt ex Animantium Diviſione, quorum quidam ſpontaneo &amp; caeco impetu feruntur, Acti po<g ref="char:EOLhyphen"/>tiùs quam Agentes; alii autem, ſuo arbitratu perpen<g ref="char:EOLhyphen"/>ſis priús &amp; exammatis rerum agendarum circumſtanti<g ref="char:EOLhyphen"/>is, vel faciunt vel omittunt conſulta prout ipſis libitum fuerit. Qualis eſt omnium hominum Natura, qui, niſi iſto privilegio gauderent, Brutis forent longè infeliciores; cum, iiſdem neceſſitatibus conſtricti ſint, legibus tamen parere cogantur, quaſi Liberi.</p>
+            <p>Cum autem inſtarent Stoici, omnino eos qui con<g ref="char:EOLhyphen"/>ſultant, id approbare ſolum quod ipſis placet, &amp; pro<g ref="char:EOLhyphen"/>inde videri etiam Homines rapi viſis aequè ac caetera Animalia, licet aliquantò lentiùs conſentiant; reſpon<g ref="char:EOLhyphen"/>dent, eum, qui conſilio ductus imaginatione viſorum percelli videatur, non ſervum ideò ſed Dominum di<g ref="char:EOLhyphen"/>cendum; cum, ſi voluerit, in alteram partem con<g ref="char:EOLhyphen"/>ſenſiſſe poterat; quiſquis enim, inquiunt, ob col<g ref="char:EOLhyphen"/>lectionem, quam apud ſe conſultans facit, aliquid approbet, reputandus eſt ipſe ſibi iſtius Approbationis cauſa.
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epar. E<g ref="char:EOLhyphen"/>ing. lib. 6.</note> Quae <hi>Alexandri Aphrodiſaei</hi> defenſio eſt apud <hi>Euſebium.</hi>
+            </p>
+            <p>Deinde cum urgerentur iſto Effato, Deus praenovit
+<pb n="17" facs="tcp:105090:10"/>omnia, ergo certò <hi>i. e.</hi> deſtinatò eveniunt; vel enim Numen nullam habet de rebus dubiis perceptionem, quod probabile non eſt ut Author neſciret motus co<g ref="char:EOLhyphen"/>natuſque Creaturae, quam ipſe produxit; vel cognitio<g ref="char:EOLhyphen"/>nem habet certam &amp; infallibilem, adeoque res illae, quas eventuras praeſcivit, inevitabiliter <hi>h. e.</hi> Neceſſariò &amp; fato cogente producentur.</p>
+            <p>Cum iſto potiſſimum Argumento ſe munirent Sto<g ref="char:EOLhyphen"/>ici, reſpondebant Platonici, verum quidem eſſe quod Deus omnia praenoverit; atqui cum quaedam Neceſſa<g ref="char:EOLhyphen"/>riò quaedam fortuitò eveniant, proinde Deum prae<g ref="char:EOLhyphen"/>ſcire Neceſſaria certò; reliqua, prout ipſorum Natu<g ref="char:EOLhyphen"/>ra erat, ſcilicet ut Dubia &amp; Indeterminata; nempe, inquiunt, ſi Deus id quod dubium Ancepsque eſt, certò ſciret, falleretur; quia Dubium id eſt quod for<g ref="char:EOLhyphen"/>tè non continget; itaque cum Futura Ancipitia talem praeſenſionem non admittant, ne Dii quidem ipſi credi debent noſſe, quae noſci nequeunt; atque Hunc in mo<g ref="char:EOLhyphen"/>dum reſpondent <hi>Chalcidius</hi>
+               <note n="a" place="margin">Ia Ti<g ref="char:EOLhyphen"/>maeum.</note>, <hi>Plotinus</hi>
+               <note n="b" place="margin">Enn. lib. 1.</note>, <hi>Ammonius</hi>
+               <note n="c" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. c.9.</note>, <hi>Tyrius</hi> aliique; imo non Philoſophi ſolùm, ſed eodem reſponſo ſe tuentur hodiè quotquot
+<note n="d" place="margin">Socinus Crellius, <hi>&amp;c.</hi>
+               </note> Theologi incon<g ref="char:EOLhyphen"/>ceſſam ſibi, veluti è Dei manibus, extorquent Liber<g ref="char:EOLhyphen"/>tatem.</p>
+            <p>Denique cum inſtarent Stoici voluntatem Humanam, ſi non Appetitûs aeſtu abripiatur, ſemper tamen In<g ref="char:EOLhyphen"/>tellectûs imperio duci, cum Rationis dictata nunquam non ſequatur; &amp; proinde non mags Libera cenſenda ſit, quam ille non habendus eſt captivus, qui nunquam foras exit niſi addito cuſtode.</p>
+            <p>Huic Inſtantiae variè reſpondent Platonici,</p>
+            <p n="1">1. Fatendo voluntatem ab Intellectu moveri &amp; allici ſemper, at nunquam cogi. Cum enim voluntas ſit caeca Potentia, oi, facis inſtar, praelucet Ratio, nè, cum
+<pb n="18" facs="tcp:105090:11"/>omnia liberè poſſit, quaedam etiam &amp; malè faciat; atque eo, funeſtiſſimo licet argumento, libertatem ſuam maximè prodat Anima, quod quandocunque lubet, imperio Rationis reniti queat. Hinc querela illa.
+<q>—Video meliora proboque</q> 
+               <hi>Deteriora ſequor</hi>—omnibus quotidiè in ore eſt Fata<g ref="char:EOLhyphen"/>lis adeo &amp; noxia Libertas, vel ex erroribus noſtris, &amp; quod quaedam mala quaſi nolentes facimus, com<g ref="char:EOLhyphen"/>probatur.</p>
+            <p n="2">2. Reſpondent urgendo Incommoda quae Stoicam iſtam Neceſſitatem ſequantur, nempe</p>
+            <p n="1">1. Si Homo ad Actiones ſuas vi aliquâ ita impel<g ref="char:EOLhyphen"/>leretur, ut omittere eas ipſi liberum non fuerit, cur Trophaea victoribus, victis ſolatia conquirimus? quor<g ref="char:EOLhyphen"/>ſum Praemia Paenaeque? cui uſui inſerviunt encomia &amp; vituperia? quis enim illum laudabit improbabit ve, quem ſtimuli &amp; flagra in facinus praecipitavêre? Benè ſcilicet non agunt, qui aliter agere non poſſunt: Nemo nauem celeri &amp; aequabili curſu immenſum ae<g ref="char:EOLhyphen"/>quor pervolantem, ideo laudabit, quòd Magiſtro diri<g ref="char:EOLhyphen"/>gente &amp; Ferente vento unà feratur; &amp; aliquando Pelagi minis, neſcia obtemperet. Majore encomio non eſt dignanda virtus, quam ignari recipimus; &amp; fato impreſſam ſignatamque animo Probitatem non magis jactaremus, quam equus Phaleras.</p>
+            <p>Cur itidem Malos caſtigamus, aut ſupplicia decerni<g ref="char:EOLhyphen"/>mus iis qui legem violant, quam, niſi fata velint, obſervare non poſſint; nemo Hirci nequitiam, aut violentiam Tauri punivit; ſi abſtineant Bruta, in iſtam Probitatem ducuntur, quaſi captiva: ſin peccent, non eſt iſtorum ſed Naturae error. Innocens planè eſt quem neceſſitas excuſat, &amp; ille quem ad ſcelera prae<g ref="char:EOLhyphen"/>finivit
+<pb n="19" facs="tcp:105090:11"/>Fatum, Infaelix dici poteſt, non Improbus: Quaeſo qui, ut de Brutis taceam, a ſtipite vel ſaxo differremus Homines, ſi ita eſſemus comparati; In<g ref="char:EOLhyphen"/>animata quaeque motorem nacta moventur; nimirum &amp; gravis Terra projicitur, &amp; iners ſaxum, ſi manum adhibeas, in Gyrum rotatur: Sic &amp; Homo, ſi Actiones non ſuas edat, ſed neceſſitate motus operetur, nihil vi<g ref="char:EOLhyphen"/>detur eſſe aliud, quam paulo agilior &amp; magis verſatilis Fabrica.</p>
+            <p>Concludunt itaque animam Humanam Privilegiis ſuis &amp; Honore natalitio privari, niſi regat corpus; corpus au<g ref="char:EOLhyphen"/>tem illa regere non poteſt, niſi in ſeipſam habeat Im<g ref="char:EOLhyphen"/>perium, juxta illud carmen
+<q>Sit liber, Dominus qui velit eſſe.</q> Atque ſic ferè pro Arbitrii Libertate arguunt Platonici. Et ſiquis controverſiam illam plenius examinare velit, legat eximias utrinque diſſertationes <hi>R. P. Bramhalli</hi> affirmantis, &amp; Th. <hi>Hobbaei,</hi> plus quàm Stoicè, negantis Libertatem.</p>
+            <p>Quod ad me attinet, etſi è ſacrâ Scripturâ edoctus ſciam quid Chriſtiano tenendum ſit, nempe ununquem<g ref="char:EOLhyphen"/>que liberè velle malum &amp; liberè nolle bonum, quae ſola nobis miſeris jam demùm reſtat libertas; tamen ſi omnino Philoſophicè agendum ſit, non dubitaverim af<g ref="char:EOLhyphen"/>firmare Libertate Abſolutâ &amp; Plenâ nihil eſſe vel quod magis credam, vel quod minus probari poſſe putem: Cum enim omnia quae videmus, ex cauſis certis deter<g ref="char:EOLhyphen"/>minatiſque oriantur &amp; fiant, unicam voluntatem Huma<g ref="char:EOLhyphen"/>nam iſtâ lege eximere videtur planè iniquum.</p>
+            <p n="1">1. Quia ut detur aliquid, quod ſeipſum moveat idque proprià vi, cogitatu prorſus impoſſibile eſt.</p>
+            <p n="2">2. Quod nemo non advertat, &amp; ſi rogetur, rationem
+<pb n="20" facs="tcp:105090:12"/>reddere queat, cur hoc potius quam illud eligat: cauſa autem illa qualiscunque, quae voluntatem ſive impellit ſive inclinat, perinde facit Actionem Neceſſariam.</p>
+            <p>Ultimò quod quomodo Libertas humana cum Prae<g ref="char:EOLhyphen"/>ſcientiâ divinâ conſiſtat, ſalvo utriuſque jure, explicare adhuc nemo poterit; quicquid enim certo praenoſcitur, ut eveniat neceſſe eſt, non quaſi ipſa praeſcientia magis quam ſcientia, quicquam ad movendam voluntatem con<g ref="char:EOLhyphen"/>tribuat, ſed quod Cauſae iſtae, è quarum cognitione Praeſcientiae certitudo &amp; Infallibilitas dependet, effe<g ref="char:EOLhyphen"/>ctum praecognitum neceſſariò &amp; inevitabiliter produ<g ref="char:EOLhyphen"/>cent.</p>
+            <p>Alia ſunt quae objici poſſunt verùm cùm Libertate ſublatâ, ſimul &amp; virtus perear; cum Pietas &amp; Politia omnis unà concidant; &amp; praeterea cum nemo non ex<g ref="char:EOLhyphen"/>periatur ſe, quando velit, non actionem modo ſed &amp; voluntatem immutare poſſe; refragetur licet ratio ſcrupuloſque injiciat, nemo tamen vereatur aſſerere ſibi eam, cujus vim quotidiè ſentit &amp; actionem exſerit, Arbitrii Libertatem.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:105090:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
